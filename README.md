@@ -12,7 +12,7 @@ Este repositório contém um estudo exploratório sobre o uso de **React Hook Fo
 
 - **Exibição de Mensagens de Erro**: Praticar a implementação de mensagens de erro dinâmicas e personalizadas para melhorar a experiência do usuário.
 
-## O Que Foi Aprendido
+## Tópicos
 
 1. **Gerenciamento de Formulários**: Como utilizar o React Hook Form para simplificar a captura e manipulação de dados de formulários, mantendo um código limpo e eficiente.
    
